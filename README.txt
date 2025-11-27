@@ -1,16 +1,10 @@
-Ovaj repozitorij služi kao moj Python portfolio i sadrži različite manje i srednje projekte kroz koje učim, vježbam i pokazujem svoje Python vještine.
+This repo serves as my Python portfolio and contains beginner and advanced projects I did. It's main purpose is to help me improve Python skills and to show projects to date.
 
-Repozitorij je organiziran u nekoliko kategorija:
+It has various level projects, starting from easier.
+Some are simple and basics training, some are scripts for automating tasks, some are data-oriented, meaning to process data and to work with csv and json files, and outer API's projects.
 
-beginner/ – jednostavni programi i vježbe za uvježbavanje osnova
-automation/ – skripte za automatizaciju svakodnevnih zadataka
-data/ – obrada podataka, rad s CSV i JSON datotekama
-api/ – projekti koji koriste vanjske API-je, poput vremenske prognoze ili pretvorbe valuta
+Each project file consists of:
+main.py – main Python script
+README.md – User manual and description
+requirements.txt – if project uses some packages
 
-Svaki projekt ima svoj folder i uključuje:
-
-main.py – glavnu Python skriptu
-README.md – opis funkcionalnosti i način korištenja
-requirements.txt – ako projekt koristi dodatne pakete
-
-Cilj ovog repozitorija je kontinuirano razvijati praktične Python vještine i pokazati potencijalnim poslodavcima moju sposobnost rješavanja problema, pisanja čitkog koda i učenja novih tehnologija.
